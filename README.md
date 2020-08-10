@@ -1,10 +1,12 @@
-# Alt::Alien::cmake3::System [![Build Status](https://secure.travis-ci.org/plicease/Alt-Alien-cmake3-System.png)](http://travis-ci.org/plicease/Alt-Alien-cmake3-System)
+# Alt::Alien::cmake3::System [![Build Status](https://travis-ci.org/PerlAlien/Alt-Alien-cmake3-System.svg)](http://travis-ci.org/PerlAlien/Alt-Alien-cmake3-System)
 
 Simplified alternative to Alien::cmake3 that uses system cmake
 
 # SYNOPSIS
 
-    env PERL_ALT_INSTALL=OVERWRITE cpanm -n Alt::Alien::cmake3::System
+```
+env PERL_ALT_INSTALL=OVERWRITE cpanm -n Alt::Alien::cmake3::System
+```
 
 # DESCRIPTION
 
