@@ -1,4 +1,4 @@
-# Alt::Alien::cmake3::System [![Build Status](https://travis-ci.org/PerlAlien/Alt-Alien-cmake3-System.svg)](http://travis-ci.org/PerlAlien/Alt-Alien-cmake3-System)
+# Alt::Alien::cmake3::System ![linux](https://github.com/PerlAlien/Alt-Alien-cmake3-System/workflows/linux/badge.svg)
 
 Simplified alternative to Alien::cmake3 that uses system cmake
 
