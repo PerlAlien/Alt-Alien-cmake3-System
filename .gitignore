@@ -1,3 +1,5 @@
 /Alt-Alien-cmake3-System-*
 /.build
 *.swp
+*.old
+*.orig
